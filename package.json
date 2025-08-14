@@ -1,0 +1,21 @@
+{
+    "name": "KalorsPage",
+    "version": "1.0.0",
+    "description": "KalorsPage",
+    "main": "app.js",
+    "type": "module",
+    "scripts": {
+        "start": "node app"
+    },
+    "dependencies": {
+        "body-parser": "^2.2.0",
+        "chalk": "^5.5.0",
+        "express": "^5.1.0",
+        "moment": "^2.30.1"
+    },
+    "engines": {
+        "node": ">=23.9.0"
+    },
+    "author": "KaedeharaLu",
+    "license": "GPL-3.0"
+}

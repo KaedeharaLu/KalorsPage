@@ -1,0 +1,18 @@
+{
+    "name": "KaedeharaLu",
+    "title": "KaedeharaLu | 个人主页",
+    "description": "KaedeharaLu的个人引导页面,您可以从这里访问到我的所有公开服务",
+    "keywords": "KaedeharaLu,个人主页,个人引导页,高中牲,高中生",
+    "socialLinks": [
+      {
+        "name": "Blog",
+        "url": "https://blog.kalors.com/",
+        "icon": "fas fa-book"
+      },
+      {
+        "name": "Github",
+        "url": "https://github.com/KaedeharaLu",
+        "icon": "fab fa-github"
+      }
+    ]
+  }
