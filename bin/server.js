@@ -48,10 +48,10 @@ const defaultSiteConfig = {
 // 创建express应用
 const app = express()
 
-app.use((req, res, next) => {
-    logger.info(`${req.method}: ${req.url}`)
-    next()
-})
+// app.use((req, res, next) => {
+//     logger.info(`${req.method}: ${req.url}`)
+//     next()
+// })
 
 app.use(bodyParser.json())
 
